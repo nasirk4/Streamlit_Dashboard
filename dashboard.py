@@ -26,7 +26,7 @@ if fl is not None:
     except Exception as e:
         st.error(f"Error loading file: {e}")
 else:
-    os.chdir(r"D:/Personal/Python Projects/dashboard")
+    #os.chdir(r"D:/Personal/Python Projects/dashboard")
     try:
         df = pd.read_csv("Superstore.csv", encoding="ISO-8859-1")
     except Exception as e:
