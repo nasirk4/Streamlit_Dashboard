@@ -4,6 +4,7 @@ import os
 import warnings
 import plotly.express as px
 import plotly.figure_factory as ff
+import matplotlib.pyplot as plt
 
 warnings.filterwarnings('ignore')
 
