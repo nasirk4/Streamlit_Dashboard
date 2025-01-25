@@ -10,7 +10,7 @@ warnings.filterwarnings('ignore')
 
 # Set page configuration
 st.set_page_config(page_title="PRR Program", page_icon=":bar_chart:", layout="wide")
-st.title(":bar_chart: Pakistan Raises Revenue Program")
+st.title(":bar_chart: An Example Store Sales Analysis")
 st.markdown('<style>div.block-container{padding-top:2rem;}</style>', unsafe_allow_html=True)
 
 # File uploader
